@@ -32,8 +32,6 @@ Preparing for the Dufourspitze (Dufour Peak), the highest summit in Switzerland,
    - **Elevation Gain**: ~1,200 m from the Klausen Pass or from the Clariden Hut
    - **Description**: The climb to Clariden has large glacier fields with some crevasses, which makes it a great place to practice crevasse rescue skills. The summit is reachable through snow and ice slopes, providing a good simulation for the types of snowy and icy conditions encountered on the Dufourspitze.
 
----
-
 ### 6. **Piz Bernina (4,049 m) - Graubünden**
    - **Approach**: Very Difficult
    - **Route**: Glaciated with exposed ridge, including the Biancograt route (classic mixed climb)
